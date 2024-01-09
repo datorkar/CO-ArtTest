@@ -28,7 +28,7 @@ Material:
     type: 3}
   m_Parent: {fileID: -876546973899608171, guid: 5892c81684ef4034c9641da6086d2941,
     type: 3}
-  m_ModifiedSerializedProperties: 22
+  m_ModifiedSerializedProperties: 16
   m_ValidKeywords:
   - _DISABLE_SSR_TRANSPARENT
   m_InvalidKeywords: []
@@ -50,15 +50,10 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _RainPower: 1.72
     - _RainSpeed: 0.1
-    - _RainSpeed_A: 0.33
-    - _RainSpeed_B: 0.02
-    - _StreakMultiplier: 3.1
-    - _TotalWetness: 0.73
     m_Colors:
     - _RainTiling: {r: 1, g: 1, b: 0, a: 0}
-    - _RainTiling_A: {r: 1.58, g: 0.98, b: 0, a: 0}
-    - _RainTiling_B: {r: 2, g: 1.06, b: 0, a: 0}
+    - _RainTiling_A: {r: 2, g: 1.1, b: 0, a: 0}
+    - _RainTiling_B: {r: 4, g: 1.5, b: 0, a: 0}
     - _WindTiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
