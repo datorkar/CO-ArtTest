@@ -49,11 +49,6 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats:
-    - _RainSpeed: 0.1
-    m_Colors:
-    - _RainTiling: {r: 1, g: 1, b: 0, a: 0}
-    - _RainTiling_A: {r: 2, g: 1.1, b: 0, a: 0}
-    - _RainTiling_B: {r: 4, g: 1.5, b: 0, a: 0}
-    - _WindTiling: {r: 1, g: 1, b: 0, a: 0}
+    m_Floats: []
+    m_Colors: []
   m_BuildTextureStacks: []
